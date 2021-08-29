@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://archive.org/download/AngryBirdsCollection/AngryBirdsSeasons3.1.1.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>http://web.archive.org/web/20121004142642im_/http://a3.mzstatic.com/us/r1000/091/Purple/v4/a8/b4/75/a8b475e0-6843-8dc6-da93-057b11637a28/mza_6114370763245327832.175x175-75.jpg</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.apple.iphoto</string>
+				<key>bundle-version</key>
+				<string>1.1.1</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>Angry Birds Seasons</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
