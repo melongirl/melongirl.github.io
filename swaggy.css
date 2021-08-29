@@ -1,0 +1,31 @@
+#topbar {
+    background-image: url("pisser.png")!important;
+    border-bottom: 1px solid black;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.applist {
+    background-color: #EBEBEB;
+}
+.applist li:nth-child(2n) {
+    background: -webkit-gradient(linear,0% 0%,0% 100%,from(#F5F5F5),color-stop(98%,#F5F5F5),to(#DEDEDE));
+}
+.applist li:nth-child(2n+1) {
+    background: -webkit-gradient(linear,0% 0%,0% 100%,from(#EBEBEB),color-stop(98%,#EBEBEB),to(#F8F8F8));
+}
+.applist .name {
+    color: #3C3C3C;
+}
+.applist .comment {
+    color: #868686;
+}
+.applist .price {
+    background-image: url("pisse.png");
+    text-shadow: none;
+    color: #6A6A6A!important;
+    border: 2px solid #B1B1B1 !important;
+    width: 35px;
+    padding: 2px;
+    text-align: center;
+    border-radius: 3px;
+}
